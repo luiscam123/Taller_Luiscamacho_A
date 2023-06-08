@@ -7,4 +7,4 @@
 ## Funcionamiento
 
 
-![](img/camera-1130731.jpg)
+![](Img/camera-1130731.jpg)
